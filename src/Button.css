@@ -1,0 +1,11 @@
+.add_to_card{
+    all:unset;
+    background:#eb9616;
+    color:#fff;
+    width:95%;
+    padding:10px 0;
+    font-size:1.2rem;
+    font-weight:bold;
+    border-radius:10px;
+    margin:15px 0;
+  }
