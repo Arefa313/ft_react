@@ -18,7 +18,7 @@ const products=[
 ]
 function App(){
 //
-     
+    // 
     return(
         <>
             <header>header</header>
